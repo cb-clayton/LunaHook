@@ -1,3 +1,4 @@
+#include <memory>
 #include "engine64/PPSSPP.h"
 #include "engine64/Godot.h"
 #include "engine64/V8.h"
