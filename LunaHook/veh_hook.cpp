@@ -1,3 +1,4 @@
+#include <vector>
 /**
 veh_hook Vectored Exception Handler hooking library
 Version: 24-March-2008
